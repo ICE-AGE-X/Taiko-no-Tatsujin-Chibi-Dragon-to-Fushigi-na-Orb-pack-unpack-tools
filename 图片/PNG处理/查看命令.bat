@@ -1,0 +1,2 @@
+python lmtpng2normalpng.py
+pause
